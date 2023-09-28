@@ -4,6 +4,7 @@
 - [Description](#description)
 - [Built With](#built-with)
 - [Installation](#installation)
+- [Walkthrough](#walkthrough)
 
 ## Description
 
@@ -53,7 +54,31 @@ Add these files:
 * package.json (by running npm init)
 * gitignore (to ignore node_modules)
 
+## Walkthrough
+
+[Youtube Link](https://youtu.be/IULY-4X70Mo)
+
 ## Users
 
-Get all users
-<img width="1440" alt="Screen Shot 2023-09-29 at 3 28 11 am" src="https://github.com/Hailin-Ruan/Social-Network-API/assets/134148160/7fc7f0d8-eae3-4a0c-8837-b6bb41d19207">
+GET all users
+<img width="1430" alt="Screen Shot 2023-09-29 at 3 48 21 am" src="https://github.com/Hailin-Ruan/Social-Network-API/assets/134148160/bc3dca6a-bb6f-474c-bfde-6fa9ee332c07">
+
+GET a single user by Id
+<img width="1434" alt="Screen Shot 2023-09-29 at 3 49 06 am" src="https://github.com/Hailin-Ruan/Social-Network-API/assets/134148160/67c23979-573b-4f28-97ed-749fc6563940">
+
+POST a new user
+<img width="1438" alt="Screen Shot 2023-09-29 at 3 46 54 am" src="https://github.com/Hailin-Ruan/Social-Network-API/assets/134148160/92c10a9b-b1de-423b-a973-ce59c1d3f11f">
+
+PUT to update a user by Id
+<img width="1434" alt="Screen Shot 2023-09-29 at 3 50 15 am" src="https://github.com/Hailin-Ruan/Social-Network-API/assets/134148160/efb41398-3d80-4f80-921c-9857779804da">
+<img width="1433" alt="Screen Shot 2023-09-29 at 3 51 18 am" src="https://github.com/Hailin-Ruan/Social-Network-API/assets/134148160/195a957f-25c3-4c60-bad3-3fc6146fdc39">
+
+DELETE to remove user by Id
+<img width="1434" alt="Screen Shot 2023-09-29 at 3 52 31 am" src="https://github.com/Hailin-Ruan/Social-Network-API/assets/134148160/6f0877b1-eabd-4392-ab00-8e1e0d8781d5">
+<img width="721" alt="Screen Shot 2023-09-29 at 3 52 43 am" src="https://github.com/Hailin-Ruan/Social-Network-API/assets/134148160/b6d6d17a-e124-47f3-9c4b-f114c88ba3e4">
+
+POST to add a new friend to a user's friend list
+
+
+DELETE to remove a friend from user's freind list
+

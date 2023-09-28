@@ -12,7 +12,7 @@ MongoDB is a top choice for social networks and businesses, thanks to its except
 This repo is an API for social network web application where users can share their thoughts, react to friend's thoughts, and create a friend list. 
 With the help of Insomnia Core, the user is able to:
 
-- [USERS](#users)
+[USERS](#users)
 - GET all users
 - GET a single user by Id
 - POST a new user
@@ -56,3 +56,4 @@ Add these files:
 ## Users
 
 Get all users
+<img width="1440" alt="Screen Shot 2023-09-29 at 3 28 11 am" src="https://github.com/Hailin-Ruan/Social-Network-API/assets/134148160/7fc7f0d8-eae3-4a0c-8837-b6bb41d19207">

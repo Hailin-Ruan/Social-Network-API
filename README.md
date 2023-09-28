@@ -78,7 +78,10 @@ DELETE to remove user by Id
 <img width="721" alt="Screen Shot 2023-09-29 at 3 52 43 am" src="https://github.com/Hailin-Ruan/Social-Network-API/assets/134148160/b6d6d17a-e124-47f3-9c4b-f114c88ba3e4">
 
 POST to add a new friend to a user's friend list
-
+<img width="1437" alt="Screen Shot 2023-09-29 at 3 54 26 am" src="https://github.com/Hailin-Ruan/Social-Network-API/assets/134148160/386aade1-ebd4-485e-a093-b7d48e809e0f">
+<img width="1438" alt="Screen Shot 2023-09-29 at 3 54 36 am" src="https://github.com/Hailin-Ruan/Social-Network-API/assets/134148160/7be90307-765f-4d31-9e5a-dbdd71cd26a3">
 
 DELETE to remove a friend from user's freind list
+<img width="1436" alt="Screen Shot 2023-09-29 at 3 55 36 am" src="https://github.com/Hailin-Ruan/Social-Network-API/assets/134148160/168d1980-28e9-4d3c-94b9-1ffb87aaf513">
+<img width="1433" alt="Screen Shot 2023-09-29 at 3 55 46 am" src="https://github.com/Hailin-Ruan/Social-Network-API/assets/134148160/5ee646d8-a0bf-4b94-b162-a5b7b217482c">
 
